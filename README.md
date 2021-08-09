@@ -1,3 +1,3 @@
 # TopicVisualization
 
-Just testing - Jimena
+##Objectives of the Project:
